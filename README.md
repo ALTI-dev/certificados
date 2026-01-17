@@ -1,5 +1,4 @@
-# certificados
-Certificados e conquistas académicas - Documentação do progresso de aprendizado
+ 
 # 📜 Certificados e Conquistas Académicas
 
 Documentação do meu progresso de aprendizado em programação e tecnologia.
