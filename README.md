@@ -12,8 +12,8 @@ Curso completo de Python dividido em 3 mundos, com certificação individual.
 
 | Módulo | Status | Carga Horária | Certificado |
 |--------|--------|---------------|-------------|
-| **Mundo 1** - Fundamentos | ✅ Concluído | 40 horas | [Ver certificado](./python/certificado_mundo1.pdf) |
-| **Mundo 2** - Estruturas de Controle | ✅ Concluído | 40 horas | [Ver certificado](./python/certificado_mundo2.pdf) |
+| **Mundo 1** - Fundamentos | ✅ Concluído | 40 horas | [Ver certificado](./python/certificado-mundo1.pdf) |
+| **Mundo 2** - Estruturas de Controle | ✅ Concluído | 40 horas | [Ver certificado](./python/certificado-mundo2.pdf) |
 | **Mundo 3** - Estruturas Compostas | 🔄 Em progresso | 40 horas | Em andamento |
 
 **Total concluído:** 80 horas de Python
